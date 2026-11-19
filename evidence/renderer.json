@@ -1,0 +1,25 @@
+{
+  "scope": "Local reference renderer with a developer-authored template",
+  "package": "Jinja2",
+  "observed_version": "3.1.6",
+  "checks": [
+    {
+      "case": "plain text",
+      "expected": "<p>Hello team</p>",
+      "observed": "<p>Hello team</p>",
+      "passed": true
+    },
+    {
+      "case": "ampersand",
+      "expected": "<p>Tea &amp; books</p>",
+      "observed": "<p>Tea &amp; books</p>",
+      "passed": true
+    },
+    {
+      "case": "literal brackets",
+      "expected": "<p>Read &lt;draft&gt;</p>",
+      "observed": "<p>Read &lt;draft&gt;</p>",
+      "passed": true
+    }
+  ]
+}

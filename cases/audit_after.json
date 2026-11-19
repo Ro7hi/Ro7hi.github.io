@@ -1,0 +1,36 @@
+{
+  "dependencies": [
+    {
+      "name": "demo-session",
+      "version": "1.1",
+      "vulns": []
+    },
+    {
+      "name": "DEMO_Parser",
+      "version": "2.0",
+      "vulns": [
+        {
+          "id": "LAB-02-B",
+          "aliases": [],
+          "fix_versions": []
+        }
+      ]
+    },
+    {
+      "name": "demo-bridge",
+      "skip_reason": "Training fixture: private package outside audit coverage"
+    },
+    {
+      "name": "demo-utils",
+      "version": "1.0",
+      "vulns": [
+        {
+          "id": "LAB-04",
+          "aliases": [],
+          "fix_versions": []
+        }
+      ]
+    }
+  ],
+  "fixes": []
+}

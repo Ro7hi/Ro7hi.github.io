@@ -1,0 +1,45 @@
+{
+  "dependencies": [
+    {
+      "name": "demo-session",
+      "version": "1.0",
+      "vulns": [
+        {
+          "id": "LAB-01",
+          "aliases": [],
+          "fix_versions": []
+        }
+      ]
+    },
+    {
+      "name": "demo-parser",
+      "version": "2.0",
+      "vulns": [
+        {
+          "id": "LAB-02-A",
+          "aliases": [
+            "LAB-02-B"
+          ],
+          "fix_versions": []
+        }
+      ]
+    },
+    {
+      "name": "demo-bridge",
+      "version": "1.0",
+      "vulns": [
+        {
+          "id": "LAB-03",
+          "aliases": [],
+          "fix_versions": []
+        }
+      ]
+    },
+    {
+      "name": "demo-utils",
+      "version": "1.0",
+      "vulns": []
+    }
+  ],
+  "fixes": []
+}

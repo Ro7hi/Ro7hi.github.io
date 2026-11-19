@@ -1,0 +1,14 @@
+{
+  "LAB-NET": {
+    "approved_bssids": [
+      "02:00:00:00:00:01",
+      "02:00:00:00:00:02"
+    ],
+    "approved_modes": [
+      {
+        "authentication": "WPA2-Personal",
+        "cipher": "CCMP"
+      }
+    ]
+  }
+}

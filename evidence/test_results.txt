@@ -1,0 +1,24 @@
+test_finding_on_newly_covered_package_has_no_baseline (test_portfolio.AuditTests.test_finding_on_newly_covered_package_has_no_baseline) ... ok
+test_known_alias_persists_across_normalized_package_name (test_portfolio.AuditTests.test_known_alias_persists_across_normalized_package_name) ... ok
+test_missing_package_cannot_prove_a_fix (test_portfolio.AuditTests.test_missing_package_cannot_prove_a_fix) ... ok
+test_new_advisory_on_same_version (test_portfolio.AuditTests.test_new_advisory_on_same_version) ... ok
+test_removed_finding_on_rescanned_package (test_portfolio.AuditTests.test_removed_finding_on_rescanned_package) ... ok
+test_skipped_package_remains_coverage_gap (test_portfolio.AuditTests.test_skipped_package_remains_coverage_gap) ... ok
+test_replay_matches_saved_results (test_portfolio.ReplayTests.test_replay_matches_saved_results) ... ok
+test_change_closes_one_inventory_finding (test_portfolio.WifiTests.test_change_closes_one_inventory_finding) ... ok
+test_expected_roaming_is_accepted (test_portfolio.WifiTests.test_expected_roaming_is_accepted) ... ok
+test_external_ssid_reported_separately (test_portfolio.WifiTests.test_external_ssid_reported_separately) ... ok
+test_known_radio_unexpected_mode (test_portfolio.WifiTests.test_known_radio_unexpected_mode) ... ok
+test_missing_fields_distinct_from_observed_deviation (test_portfolio.WifiTests.test_missing_fields_distinct_from_observed_deviation) ... ok
+test_two_findings_on_one_observation (test_portfolio.WifiTests.test_two_findings_on_one_observation) ... ok
+test_duplicate_record_and_reverse_time_order (test_portfolio.WindowsTests.test_duplicate_record_and_reverse_time_order) ... ok
+test_exact_five_minute_boundary_included (test_portfolio.WindowsTests.test_exact_five_minute_boundary_included) ... ok
+test_lower_threshold_adds_known_benign_case (test_portfolio.WindowsTests.test_lower_threshold_adds_known_benign_case) ... ok
+test_one_second_outside_window (test_portfolio.WindowsTests.test_one_second_outside_window) ... ok
+test_other_source_success_keeps_window_open (test_portfolio.WindowsTests.test_other_source_success_keeps_window_open) ... ok
+test_success_closes_history (test_portfolio.WindowsTests.test_success_closes_history) ... ok
+
+----------------------------------------------------------------------
+Ran 19 tests in 0.091s
+
+OK

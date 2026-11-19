@@ -1,0 +1,12 @@
+WINDOWS | 17 records, 16 eligible unique
+  Threshold 5 | 1 review cases | 0 benign | success records 2107
+  Threshold 4 | 2 review cases | 0 benign | success records 2107, 2206
+  Threshold 2 | 2 review cases | 1 benign | success records 2107, 2206, 2303
+DEPENDENCIES | Two four-package inventories
+  demo-bridge | Coverage gap in second audit | Training fixture: private package outside audit coverage
+  demo-parser | Still reported | LAB-02-B [previously LAB-02-A] (2.0 to 2.0)
+  demo-session | No longer reported | LAB-01 (1.0 to 1.1)
+  demo-utils | Newly reported | LAB-04 (1.0 to 1.0)
+WI-FI | Simulated change CHG-17
+  before | 8 observations | 3 flagged | 2 incomplete | 1 outside scope
+  after | 8 observations | 2 flagged | 2 incomplete | 1 outside scope

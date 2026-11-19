@@ -1,0 +1,8 @@
+Initial baseline
+2026-01-15T09:02:00Z | LAB-NET | 02:00:00:00:00:03 | BSSID missing from inventory
+2026-01-15T09:03:00Z | LAB-NET | 02:00:00:00:00:02 | unexpected connection mode Open/None
+Observations: 5 | Flagged: 2 | Outside policy scope: 1
+
+After inventory approval
+2026-01-15T09:03:00Z | LAB-NET | 02:00:00:00:00:02 | unexpected connection mode Open/None
+Observations: 5 | Flagged: 1 | Outside policy scope: 1

@@ -1,0 +1,43 @@
+{
+  "dependencies": [
+    {
+      "name": "demo-session",
+      "version": "1.0",
+      "vulns": [
+        {
+          "id": "DEMO-001",
+          "fix_versions": [
+            "1.1"
+          ],
+          "aliases": [],
+          "description": "Fictional training advisory."
+        }
+      ]
+    },
+    {
+      "name": "demo-parser",
+      "version": "2.0",
+      "vulns": [
+        {
+          "id": "DEMO-002",
+          "fix_versions": [],
+          "aliases": [],
+          "description": "Fictional training advisory."
+        }
+      ]
+    },
+    {
+      "name": "demo-bridge",
+      "version": "1.0",
+      "vulns": [
+        {
+          "id": "DEMO-003",
+          "fix_versions": [],
+          "aliases": [],
+          "description": "Fictional training advisory."
+        }
+      ]
+    }
+  ],
+  "fixes": []
+}

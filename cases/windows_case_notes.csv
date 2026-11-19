@@ -1,0 +1,4 @@
+case,success_record,label,independent_case_note
+W1,2107,review,Simulated owner callback: account owner could not identify the source.
+W2,2206,review,Simulated change review: source workstation was outside the approved change window.
+W3,2303,benign,Simulated help-desk ticket: two typing errors confirmed by the account owner.

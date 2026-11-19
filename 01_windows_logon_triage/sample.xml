@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Events>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <Provider Name="Microsoft-Windows-Security-Auditing" />
+      <EventID>4624</EventID>
+      <TimeCreated SystemTime="2026-01-15T08:03:15.1234567Z" />
+      <EventRecordID>111</EventRecordID>
+      <Channel>Security</Channel>
+      <Computer>PC-01.lab.example</Computer>
+    </System>
+    <EventData>
+      <Data Name="TargetUserName">student-b</Data>
+      <Data Name="TargetDomainName">LAB</Data>
+      <Data Name="IpAddress">-</Data>
+      <Data Name="LogonType">2</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <Provider Name="Microsoft-Windows-Security-Auditing" />
+      <EventID>4624</EventID>
+      <TimeCreated SystemTime="2026-01-15T08:03:00.1234567Z" />
+      <EventRecordID>110</EventRecordID>
+      <Channel>Security</Channel>
+      <Computer>PC-01.lab.example</Computer>
+    </System>
+    <EventData>
+      <Data Name="TargetUserName">analyst-a</Data>
+      <Data Name="TargetDomainName">LAB</Data>
+      <Data Name="IpAddress">192.0.2.44</Data>
+      <Data Name="LogonType">3</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <Provider Name="Microsoft-Windows-Security-Auditing" />
+      <EventID>4625</EventID>
+      <TimeCreated SystemTime="2026-01-15T08:02:30.1234567Z" />
+      <EventRecordID>109</EventRecordID>
+      <Channel>Security</Channel>
+      <Computer>PC-01.lab.example</Computer>
+    </System>
+    <EventData>
+      <Data Name="TargetUserName">analyst-a</Data>
+      <Data Name="TargetDomainName">LAB</Data>
+      <Data Name="IpAddress">192.0.2.44</Data>
+      <Data Name="LogonType">3</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <Provider Name="Microsoft-Windows-Security-Auditing" />
+      <EventID>4625</EventID>
+      <TimeCreated SystemTime="2026-01-15T08:02:00.1234567Z" />
+      <EventRecordID>108</EventRecordID>
+      <Channel>Security</Channel>
+      <Computer>PC-01.lab.example</Computer>
+    </System>
+    <EventData>
+      <Data Name="TargetUserName">analyst-a</Data>
+      <Data Name="TargetDomainName">LAB</Data>
+      <Data Name="IpAddress">192.0.2.44</Data>
+      <Data Name="LogonType">3</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <Provider Name="Microsoft-Windows-Security-Auditing" />
+      <EventID>4624</EventID>
+      <TimeCreated SystemTime="2026-01-15T08:01:30.1234567Z" />
+      <EventRecordID>107</EventRecordID>
+      <Channel>Security</Channel>
+      <Computer>PC-01.lab.example</Computer>
+    </System>
+    <EventData>
+      <Data Name="TargetUserName">analyst-a</Data>
+      <Data Name="TargetDomainName">LAB</Data>
+      <Data Name="IpAddress">192.0.2.99</Data>
+      <Data Name="LogonType">3</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <Provider Name="Microsoft-Windows-Security-Auditing" />
+      <EventID>4625</EventID>
+      <TimeCreated SystemTime="2026-01-15T08:01:00.1234567Z" />
+      <EventRecordID>106</EventRecordID>
+      <Channel>Security</Channel>
+      <Computer>PC-01.lab.example</Computer>
+    </System>
+    <EventData>
+      <Data Name="TargetUserName">analyst-a</Data>
+      <Data Name="TargetDomainName">LAB</Data>
+      <Data Name="IpAddress">192.0.2.44</Data>
+      <Data Name="LogonType">3</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <Provider Name="Microsoft-Windows-Security-Auditing" />
+      <EventID>4624</EventID>
+      <TimeCreated SystemTime="2026-01-15T08:00:45.1234567Z" />
+      <EventRecordID>105</EventRecordID>
+      <Channel>Security</Channel>
+      <Computer>PC-01.lab.example</Computer>
+    </System>
+    <EventData>
+      <Data Name="TargetUserName">student-b</Data>
+      <Data Name="TargetDomainName">LAB</Data>
+      <Data Name="IpAddress">192.0.2.18</Data>
+      <Data Name="LogonType">3</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <Provider Name="Microsoft-Windows-Security-Auditing" />
+      <EventID>4625</EventID>
+      <TimeCreated SystemTime="2026-01-15T08:00:30.1234567Z" />
+      <EventRecordID>104</EventRecordID>
+      <Channel>Security</Channel>
+      <Computer>PC-01.lab.example</Computer>
+    </System>
+    <EventData>
+      <Data Name="TargetUserName">student-b</Data>
+      <Data Name="TargetDomainName">LAB</Data>
+      <Data Name="IpAddress">192.0.2.18</Data>
+      <Data Name="LogonType">3</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <Provider Name="Microsoft-Windows-Security-Auditing" />
+      <EventID>4625</EventID>
+      <TimeCreated SystemTime="2026-01-15T08:00:24.1234567Z" />
+      <EventRecordID>103</EventRecordID>
+      <Channel>Security</Channel>
+      <Computer>PC-01.lab.example</Computer>
+    </System>
+    <EventData>
+      <Data Name="TargetUserName">analyst-a</Data>
+      <Data Name="TargetDomainName">LAB</Data>
+      <Data Name="IpAddress">192.0.2.44</Data>
+      <Data Name="LogonType">3</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <Provider Name="Microsoft-Windows-Security-Auditing" />
+      <EventID>4625</EventID>
+      <TimeCreated SystemTime="2026-01-15T08:00:10.1234567Z" />
+      <EventRecordID>102</EventRecordID>
+      <Channel>Security</Channel>
+      <Computer>PC-01.lab.example</Computer>
+    </System>
+    <EventData>
+      <Data Name="TargetUserName">student-b</Data>
+      <Data Name="TargetDomainName">LAB</Data>
+      <Data Name="IpAddress">192.0.2.18</Data>
+      <Data Name="LogonType">3</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <Provider Name="Microsoft-Windows-Security-Auditing" />
+      <EventID>4625</EventID>
+      <TimeCreated SystemTime="2026-01-15T08:00:00.1234567Z" />
+      <EventRecordID>101</EventRecordID>
+      <Channel>Security</Channel>
+      <Computer>PC-01.lab.example</Computer>
+    </System>
+    <EventData>
+      <Data Name="TargetUserName">analyst-a</Data>
+      <Data Name="TargetDomainName">LAB</Data>
+      <Data Name="IpAddress">192.0.2.44</Data>
+      <Data Name="LogonType">3</Data>
+    </EventData>
+  </Event>
+</Events>

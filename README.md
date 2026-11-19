@@ -1,8 +1,10 @@
 # Rohit Amadala | Cybersecurity placement portfolio
 
-I’m a final-year Electronics and Communication Engineering student at SRM Institute of Science and Technology (SRMIST), preparing for CompTIA Security+ and looking for an entry-level cybersecurity engineering or SOC analyst role in India. My ECE coursework sparked my interest in wireless security. This portfolio explores how an analyst decides which alerts need a closer look.
+**Aspiring Cybersecurity Engineer | Final-year ECE at SRMIST | Python, Windows Log Analysis & Wireless Security | Preparing for CompTIA Security+**
 
-[Four-page casebook](Rohit_Cybersecurity_Casebook.pdf) · [72-second narrated walkthrough](Cybersecurity_Lab_Walkthrough.mp4) · [English captions](placement/Walkthrough_en.srt)
+I’m looking for my first cybersecurity engineering or SOC analyst role in India. My Electronics and Communication Engineering coursework at SRM Institute of Science and Technology drew me to wireless security. I also explore ethical hacking and red teaming through TryHackMe and Hack The Box.
+
+[Projects on LinkedIn](https://www.linkedin.com/in/rohit-amadala-a12056318/details/projects/)
 
 ## Three investigations
 
@@ -12,7 +14,7 @@ I’m a final-year Electronics and Communication Engineering student at SRM Inst
 | [Chatbot dependency review](02_chatbot_dependency_review/CASE.md) | Which findings are still open after a second dependency audit? | Across two four-package snapshots, one advisory persisted under a different identifier. A skipped package still needed follow-up. |
 | [Wi-Fi security baseline review](03_wifi_baseline_review/CASE.md) | Which connection settings still need investigation after an approved access-point change? | Of eight observations, three were flagged before the inventory update and two afterward. One approved radio still reported an open connection. |
 
-The cases use synthetic logs, audit reports and Wi-Fi observations. The dependency lab includes a separate local check of a Jinja2 reference template. The code, case notes, visuals and narration were prepared with AI assistance.
+The cases use synthetic logs, audit reports and Wi-Fi observations. The dependency lab includes a separate local check of a Jinja2 reference template. The code and case notes were prepared with AI assistance.
 
 ## Reproduce the findings
 

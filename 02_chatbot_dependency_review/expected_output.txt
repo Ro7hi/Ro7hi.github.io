@@ -1,0 +1,4 @@
+Inventory: 3 packages before, 3 after
+Coverage gap in second audit | demo-bridge | Fictional private package unavailable to the audit service
+Still reported | demo-parser | DEMO-002 (2.0 to 2.0)
+No longer reported | demo-session | DEMO-001 (1.0 to 1.1)
