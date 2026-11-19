@@ -1,0 +1,40 @@
+1
+00:00:00,220 --> 00:00:04,150
+This portfolio covers three decisions in defensive security.
+
+2
+00:00:04,410 --> 00:00:13,965
+The examples use simulated Windows events, dependency reports, and wireless observations. One component check ran on real installed software.
+
+3
+00:00:14,525 --> 00:00:19,515
+The Windows rule groups sign-ins by account, host, source, and logon type.
+
+4
+00:00:19,775 --> 00:00:29,290
+At five failures, one case was missed by a single second. Four failures surfaced both review cases. At two, the rule also flagged a confirmed typing error.
+
+5
+00:00:29,850 --> 00:00:38,810
+In the dependency review, one advisory changed its identifier, and one package was skipped. Neither observation justified closing the issue.
+
+6
+00:00:39,070 --> 00:00:47,140
+A separate reference template passed three rendering checks on a local Jinja installation. The original chatbot was outside this test.
+
+7
+00:00:47,700 --> 00:00:54,540
+In the wireless case, the change record approved one new radio. That reduced flagged observations from three to two.
+
+8
+00:00:54,800 --> 00:01:00,855
+A known radio still reported an unexpected security mode. Two incomplete readings needed fresh evidence.
+
+9
+00:01:01,415 --> 00:01:06,160
+The casebook and source archive include the inputs, outputs, and decision notes.
+
+10
+00:01:06,420 --> 00:01:11,785
+The offline replay and nineteen passing regression tests make the results reproducible.
+

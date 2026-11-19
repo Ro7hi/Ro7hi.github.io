@@ -6,6 +6,8 @@ I’m looking for my first cybersecurity engineering or SOC analyst role in Indi
 
 [Projects on LinkedIn](https://www.linkedin.com/in/rohit-amadala-a12056318/details/projects/)
 
+[Four-page casebook](Rohit_Cybersecurity_Casebook.pdf) · [Narrated walkthrough](Cybersecurity_Lab_Walkthrough.mp4) · [English captions](placement/Walkthrough_en.srt)
+
 ## Three investigations
 
 | Lab | Question | Result on the supplied data |
